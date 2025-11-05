@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Caché y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.csv
+
+# Config locales
+.env
+.DS_Store
+.ipynb_checkpoints/
